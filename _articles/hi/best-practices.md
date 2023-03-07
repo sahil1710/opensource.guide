@@ -18,23 +18,23 @@ related:
 
 किसी प्रोजेक्ट का रख रखाव करने के लिए कोड से अधिक की आवश्यकता होती है। ये कार्य अक्सर अनपेक्षित होते हैं, लेकिन ये किसी बढ़ते हुए प्रोजेक्ट के लिए उतने ही महत्वपूर्ण होते हैं। प्रक्रियाओं का दस्तावेजीकरण करने से लेकर आपके समुदाय का लाभ देने तक, हमने आपके जीवन को आसान बनाने के कुछ तरीके एकत्र किए हैं।
 
-## Documenting your processes
+## अपनी प्रक्रियाओं का दस्तावेजीकरण
 
-Writing things down is one of the most important things you can do as a maintainer.
+चीजों को लिखना सबसे महत्वपूर्ण चीजों में से एक है जो आप एक अनुरक्षक के रूप में कर सकते हैं।
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+दस्तावेज़ीकरण न केवल आपकी अपनी सोच को स्पष्ट करता है, बल्कि यह अन्य लोगों को यह समझने में मदद करता है कि आपको क्या चाहिए या क्या उम्मीद है, इससे पहले कि वे पूछें।
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+जब कुछ आपके दायरे में नहीं आता है, tab चीजों को लिखने से ना कहना आसान हो जाता है।  इससे लोगों के लिए पिच करना और मदद करना भी आसान हो जाता है। आप कभी नहीं जान सकते कि कौन आपके प्रोजेक्ट को पढ़ रहा है या उसका उपयोग कर रहा है।
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+यहां तक कि अगर आप पूरे पैराग्राफ का उपयोग नहीं करते हैं, तो बुलेट बिंदुओं को लिखना बिल्कुल न लिखने से बेहतर है।
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+अपने दस्तावेज़ को अद्यतित रखना याद रखें। यदि आप हमेशा ऐसा करने में सक्षम नहीं होते हैं, तो अपने पुराने दस्तावेज़ों को हटा दें या इंगित करें कि यह पुराना है ताकि योगदानकर्ताओं को पता चले कि वे अपडेट कर सकते है।
 
-### Write down your project's vision
+### अपनी परियोजना का विज़न लिखे
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+अपनी परियोजना के लक्ष्यों को लिखकर प्रारंभ करें। उन्हें अपने रीडमे में जोड़ें, या विजन नामक एक अलग फाइल बनाएं। यदि अन्य कलाकृतियाँ हैं जो परियोजना रोडमैप की तरह मदद कर सकती हैं, तो उन्हें भी सार्वजनिक करें।
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+एक स्पष्ट, प्रलेखित विज़न होने से आप ध्यान केंद्रित करते हैं और आपको दूसरों के योगदान से लक्ष्य में बदलाव से बचने में मदद मिलती है।
 
 For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
 
