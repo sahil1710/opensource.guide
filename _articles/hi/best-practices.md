@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: hi
+title: अनुरक्षकों के लिए सर्वोत्तम अभ्यास
+description: एक ओपन सोर्स मेंटेनर के रूप में अपने जीवन को सरल बनाना, प्रक्रियाओं का दस्तावेजीकरण करने से लेकर अपने समुदाय का लाभ देना।
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,13 +10,13 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## मेंटेनर होने का क्या अर्थ है?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+यदि आप एक ओपन सोर्स प्रोजेक्ट का रखरखाव कर रहे हैं जिसका बहुत सारे लोग उपयोग करते हैं, तो आपने देखा होगा कि आप कोडिंग कम कर रहे हैं और मुद्दों पर प्रतिक्रिया अधिक कर रहे हैं।
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+किसी प्रोजेक्ट के शुरुआती चरणों में, आप नए विचारों के साथ प्रयोग कर रहे हैं और आप जो चाहते हैं उसके आधार पर निर्णय ले रहे हैं। जैसे-जैसे आपकी परियोजना की लोकप्रियता बढ़ती है, आप स्वयं को अपने उपयोगकर्ताओं और योगदानकर्ताओं के साथ अधिक काम करते हुए पाएंगे।
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+किसी प्रोजेक्ट का रख रखाव करने के लिए कोड से अधिक की आवश्यकता होती है। ये कार्य अक्सर अनपेक्षित होते हैं, लेकिन ये किसी बढ़ते हुए प्रोजेक्ट के लिए उतने ही महत्वपूर्ण होते हैं। प्रक्रियाओं का दस्तावेजीकरण करने से लेकर आपके समुदाय का लाभ देने तक, हमने आपके जीवन को आसान बनाने के कुछ तरीके एकत्र किए हैं।
 
 ## Documenting your processes
 
