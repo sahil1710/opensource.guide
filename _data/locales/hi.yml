@@ -17,15 +17,15 @@ en:
       button: योगदान दे
     subscribe:
       heading: संपर्क में रहे
-      description: गिटहब की नवीनतम ओपन सोर्स युक्तियों और संसाधनों के बारे में सबसे पहले सुनें।
-      label: Email Address
-      button: Subscribe
+      description: GitHub की नवीनतम ओपन सोर्स युक्तियों और संसाधनों के बारे में सबसे पहले सुनें।
+      label: ई-मेल एड्रेस
+      button: सदस्यता लें
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] साथ [love] द्वारा [github] और [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: कोड
       # Label for love octicon
-      love_label: love
+      love_label: प्यार
       # Label for the contributors link
-      friends_label: friends
+      friends_label: दोस्त
