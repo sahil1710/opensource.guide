@@ -1,23 +1,23 @@
 en:
-  locale_name: Hindi
+  locale_name: हिंदी
   nav:
-    about: About
-    contribute: Contribute
+    about: के बारे में
+    contribute: योगदान देना
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: ओपन सोर्स सॉफ्टवेयर आप जैसे लोगों द्वारा ही बनाया जाता है। अपने प्रोजेक्ट को लॉन्च करना और बढ़ाना सीखें।
+    opensourcefriday: आज शुक्रवार है! आपके द्वारा उपयोग किए जाने वाले और पसंद किए जाने वाले सॉफ़्टवेयर में कुछ घंटे निवेश करें
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: विषयसूची
+    back_to_all_guides: सभी मार्गदर्शिका पर वापस जाएं
+    related_guides: संबंधित मार्गदर्शिकाएँ 
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: योगदान देना
+      description: सुझाव देना चाहते हैं? यह कंटेंटओपन-सोर्स है। इसे सुधारने में हमारी मदद करें।
+      button: योगदान दे
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
+      heading: संपर्क में रहे
+      description: गिटहब की नवीनतम ओपन सोर्स युक्तियों और संसाधनों के बारे में सबसे पहले सुनें।
       label: Email Address
       button: Subscribe
     byline:
